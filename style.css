@@ -1,3 +1,18 @@
 h1{
     color : red;
 }
+.bleu{
+    color:blue;
+}
+
+h3{
+    font: size 80px;px
+    text-align:center;
+}
+
+p {
+    background-color:pink;
+    color:white;
+    width:50%;
+    margin:auto;
+}
